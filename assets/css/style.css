@@ -1567,7 +1567,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #57cbcc;
+  background: #a9c800;
 }
 
 .social-icon ul li a:hover i {
@@ -1583,6 +1583,7 @@ input#e-mail,
   margin: 0;
   opacity: 0.3;
   transition: all 400ms ease-out 0s;
+  color: #fff;
 }
 
 .copyright {
