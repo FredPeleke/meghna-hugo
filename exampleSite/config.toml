@@ -1,5 +1,5 @@
 baseURL = "https://dev2-peleke.netlify.com/"
-disableLanguages = ["en"]
+disableLanguages = ["En"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -18,13 +18,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "about"
+name = "About Us"
+weight = 1
+[[menu.main]]
+URL = "services"
+name = "Service"
+weight = 2
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
 weight = 3
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+weight = 5
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 7
 [params]
 author = "WebPlusUn"
 description = "WebPlusUn propose un service majeur en éco-conception de site, audit de performances et optimisation SXO sur la France entière."
