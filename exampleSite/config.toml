@@ -80,17 +80,5 @@ preloader = "images/logo.png"
 icon = "ti-facebook"
 link = "https://www.facebook.com/WebPlusUn/"
 [[params.social_Icon]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-youtube"
-link = "#"
-[[params.social_Icon]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-pinterest"
 link = "#"
