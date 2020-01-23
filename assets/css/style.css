@@ -502,7 +502,7 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: 0;
+  text-transform: none;
   font-weight: 700;
   margin-bottom: 20px;
 }
