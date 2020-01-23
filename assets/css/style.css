@@ -753,7 +753,7 @@ a:hover {
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  background: #a9c800;
   padding: 12px 0;
   width: 100%;
   margin: 0;
@@ -774,6 +774,7 @@ a:hover {
 .con-info i,
 .con-info span {
   padding-right: 5px;
+  color: #a9c800;
 }
 
 .error {
