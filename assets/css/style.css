@@ -227,6 +227,7 @@ a:hover {
 .btn-main:hover {
   background: #fff;
   color: #a9c800;
+  border-color: #a9c800;
 }
 
 .mt-20 {
@@ -328,7 +329,7 @@ a:hover {
 
 .overly:before {
   content: '';
-  background: rgba(0, 0, 0, 0.096);
+  background: transparent;
   position: absolute;
   top: 0;
   right: 0;
