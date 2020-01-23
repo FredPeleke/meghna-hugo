@@ -1,7 +1,7 @@
 ---
 contact:
   enable: true
-  title: Contact Us
+  title: Un site éco-responsable vous intéresse ?
   subtitle: Contact Details
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
@@ -14,7 +14,7 @@ contact:
     mapLongitude: "-0.1622023"
   contact_Details:
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+    info: 'Adresse : Tarnos, France'
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
   - icon: ti-printer
