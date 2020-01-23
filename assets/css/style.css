@@ -249,11 +249,11 @@ a:hover {
 }
 
 .section-sm {
-  padding: 70px 0;
+  padding: 50px 0;
 }
 
 .section-xs {
-  padding: 50px 0;
+  padding: 40px 0;
 }
 
 .btn:focus {
@@ -302,7 +302,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #a9c800;
 }
 
 .title p {
