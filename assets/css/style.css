@@ -502,7 +502,7 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: capitalize;
+  text-transform: 0;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -522,12 +522,13 @@ a:hover {
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #fff;
+  border-color: #a9c800;
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 1px;
+  border-radius: 15px;
 }
 
 .hero-area-video {
