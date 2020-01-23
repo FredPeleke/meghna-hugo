@@ -10,7 +10,7 @@ funfacts:
     icon: ti-mobile
     count: ''
   - title: Site sécurisé
-    icon: ti-locked
+    icon: ti-lock
     count: ''
   - title: Cups of Coffee
     icon: ti-gift
