@@ -3,9 +3,9 @@ funfacts:
   enable: true
   bg_Image: ''
   counter_Item:
-  - title: Happy Clients
-    icon: ti-face-smile
-    count: "320"
+  - title: Chargement rapide
+    icon: ti-timer
+    count: ''
   - title: Projects completed
     icon: ti-archive
     count: "350"
