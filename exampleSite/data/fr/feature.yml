@@ -11,9 +11,11 @@ feature:
     avec ses clients.
   feature_Item:
   - icon: ti-world
-    title: SEO Optimized
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    title: Éco-conception
+    content: Désormais, les consommateurs accordent plus d’intérêt à vos valeurs qu’à
+      vos produits. Alors que ceux-ci ont un vaste choix parmi vos concurrents sur
+      les mêmes biens et services, la différence se fera en valorisant une certaine
+      éthique.
   - icon: ti-panel
     title: Easy Customization
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
