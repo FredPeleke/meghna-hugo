@@ -214,7 +214,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #1495d1;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -224,8 +224,8 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
-  color: #fff;
+  background: #fff;
+  color: #a9c800;
 }
 
 .mt-20 {
@@ -423,7 +423,7 @@ a:hover {
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #1495d1;
 }
 
 .navigation .navbar-toggler {
