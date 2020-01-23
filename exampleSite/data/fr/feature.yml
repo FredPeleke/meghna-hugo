@@ -17,9 +17,10 @@ feature:
       les mêmes biens et services, la différence se fera en valorisant une certaine
       éthique.
   - icon: ti-panel
-    title: Easy Customization
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    title: Audit de performance
+    content: Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il
+      lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre
+      les comportements et améliorer les visites.
   - icon: ti-stats-up
     title: SEO Optimized
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
