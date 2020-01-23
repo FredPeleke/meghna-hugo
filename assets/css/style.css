@@ -221,6 +221,7 @@ a:hover {
   letter-spacing: 1px;
   padding: 10px 35px;
   text-transform: uppercase;
+  border-radius: 15px;
 }
 
 .btn-main:hover {
@@ -819,6 +820,7 @@ a:hover {
   font-weight: bold;
   font-size: 35px;
   line-height: 50px;
+  color: #292f36;
 }
 
 .counters-item h3 {
