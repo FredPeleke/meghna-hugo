@@ -33,7 +33,7 @@ weight = 7
 author = "WebPlusUn"
 description = "WebPlusUn propose un service majeur en éco-conception de site, audit de performances et optimisation SXO sur la France entière."
 googleAnalitycsID = "Your ID"
-logo = "static/images/webplusun-logo.png"
+logo = "images/webplusun-logo.png"
 postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
