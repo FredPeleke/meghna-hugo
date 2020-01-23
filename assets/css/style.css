@@ -744,7 +744,7 @@ a:hover {
 .form-meghna input:hover,
 .form-meghna textarea:hover,
 #contact-submit:hover {
-  border-color: #57cbcc;
+  border-color: #a9c800;
 }
 
 .form-meghna ::placeholder {
@@ -1588,7 +1588,7 @@ input#e-mail,
 
 .copyright {
   padding: 20px 0;
-  color: #fff;
+  color: #26292e;
 }
 
 .copyright img {
