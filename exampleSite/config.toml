@@ -1,5 +1,5 @@
-baseURL = "https://dev2-peleke.netlify.com"
-disableLanguages = []
+baseURL = "https://dev2-peleke.netlify.com/"
+disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -46,8 +46,8 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "WebPlusUn"
+description = "WebPlusUn propose un service majeur en éco-conception de site, audit de performances et optimisation SXO sur la France entière."
 googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
 postShare = true
