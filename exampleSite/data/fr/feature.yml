@@ -1,22 +1,28 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_Item : 
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : SEO Optimized
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      title : Easy Customization
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      title : SEO Optimized
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      title : Easy Customization
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/about-business-man.jpg
+  title: WebPlusUn, agence web éco-responsable
+  content: Basé entre Pays basque et Landes, WebPlusUn propose un service majeur en
+    éco-conception de site, audit de performances et SXO sur la France entière. En
+    relation directe avec de nombreuses entreprises de secteurs divers (décoration,
+    immobilier, boutiques, e-commerce, alimentaire, surf, marketing, …) ayant une
+    diffusion nationale et internationale, WebPlusUn mise sur la proximité et le contact
+    avec ses clients.
+  feature_Item:
+  - icon: ti-world
+    title: SEO Optimized
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - icon: ti-panel
+    title: Easy Customization
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - icon: ti-stats-up
+    title: SEO Optimized
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - icon: ti-announcement
+    title: Easy Customization
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
