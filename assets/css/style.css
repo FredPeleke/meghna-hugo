@@ -140,7 +140,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #a9c800;
 }
 
 .color {
@@ -635,6 +635,11 @@ a:hover {
 
 .about .block .icon-box h3 {
   color: #afbac4;
+}
+
+.about h3{
+  color:#a9c800;
+  font-weight:700;
 }
 
 /*=================================================================
