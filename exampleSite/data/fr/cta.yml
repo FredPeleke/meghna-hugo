@@ -1,10 +1,13 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_Image : "images/backgrounds/bg-1.jpg"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_Image: static/images/herbes-copie.jpg
+  title: Pourquoi opter pour l'éco-conception ?
+  content: Désormais les consommateurs accordent plus d’intérêt à vos valeurs qu’à
+    vos produits. Alors que ceux-ci ont un vaste choix parmi vos concurrents sur les
+    mêmes biens et services, désormais la différence se fait en vous démarquant à
+    travers une certaine éthique.
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Start a project with us
+    link: "#contact"
