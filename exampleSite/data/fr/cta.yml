@@ -9,5 +9,5 @@ cta:
     travers une certaine éthique.
   button:
     enable: true
-    label: Start a project with us
+    label: Mettez de l'éthique dans votre site
     link: "#contact"
