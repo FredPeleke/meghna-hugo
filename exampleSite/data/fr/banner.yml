@@ -1,11 +1,12 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_Image : "images/slider/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Découvrez la nouvelle réalité"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_Image: images/slider/webplusun-hero.jpg
+  icon: ''
+  title: Éco-concept et Analyse web
+  content: Rien n'est permanent, sauf le changement. Il est encore temps pour être
+    en avance.
   button:
-    enable : true
-    label : "Explorez-nous"
-    link : "#services"
+    enable: true
+    label: Surfez sur un Web Plus Sain
+    link: "#feature"
