@@ -22,9 +22,10 @@ feature:
       lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre
       les comportements et améliorer les visites.
   - icon: ti-stats-up
-    title: SEO Optimized
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    title: Vision SXO
+    content: On réfléchie trop à son classement sur les moteurs de recherche au détriment
+      de l’utilisateur direct. Pourtant l’un ne va pas sans l’autre. Le classement
+      n’est pas l’aboutissement.
   - icon: ti-announcement
     title: Easy Customization
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
