@@ -12,6 +12,6 @@ funfacts:
   - title: Site sécurisé
     icon: ti-lock
     count: ''
-  - title: Cups of Coffee
-    icon: ti-gift
-    count: "250"
+  - title: 1 interlocuteur
+    icon: ti-user
+    count: ''
