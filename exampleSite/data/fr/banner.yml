@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_Image: static/images/webplusun-hero.jpg
-  icon: ''
+  icon: static/images/webplusun-logo.png
   title: Éco-concept et Analyse web
   content: Rien n'est permanent, sauf le changement. Il est encore temps pour être
     en avance.
