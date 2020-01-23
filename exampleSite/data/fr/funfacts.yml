@@ -6,9 +6,9 @@ funfacts:
   - title: Chargement rapide
     icon: ti-timer
     count: ''
-  - title: Projects completed
-    icon: ti-archive
-    count: "350"
+  - title: Mobile first
+    icon: ti-mobile
+    count: ''
   - title: Positive feedback
     icon: ti-thumb-up
     count: "158"
