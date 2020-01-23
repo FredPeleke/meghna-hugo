@@ -20,7 +20,8 @@ feature:
     title: Audit de performance
     content: Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il
       lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre
-      les comportements et améliorer les visites.
+      les comportements et améliorer les visites, et auxquelles une analyse web et
+      un audit de performance sauront répondre.
   - icon: ti-stats-up
     title: Vision SXO
     content: On réfléchie trop à son classement sur les moteurs de recherche au détriment
