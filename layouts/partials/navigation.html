@@ -1,4 +1,4 @@
-{{"<!-- Fixed Navigation -->" | safeHTML}}
+{{"<!-- Navigation Fixe -->" | safeHTML}}
 <nav id="navigation" class="navbar navbar-expand-lg navigation sticky-top">
 	<div class="container">
 
@@ -12,15 +12,15 @@
 		</a>
 		{{"<!-- /logo -->" | safeHTML}}
 
-		{{"<!-- responsive nav button -->" | safeHTML}}
+		{{"<!-- responsive nav bouton -->" | safeHTML}}
 		<button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse"
 			data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
 			aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
-		{{"<!-- /responsive nav button -->" | safeHTML}}
+		{{"<!-- /responsive nav bouton -->" | safeHTML}}
 
-		{{"<!-- main nav -->" | safeHTML}}
+		{{"<!-- nav principale -->" | safeHTML}}
 		{{ if .IsHome }}
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ml-auto navigation-menu">
@@ -40,10 +40,10 @@
 			</ul>
 		</div>
 		{{ end }}
-		{{"<!-- /main nav -->" | safeHTML}}
+		{{"<!-- /nav principale -->" | safeHTML}}
 
 		
-    <!-- Language List -->
+    <!-- Langues -->
     {{- if .Site.IsMultiLingual }}
     <select id="select-language" onchange="location = this.value;">
       {{ $siteLanguages := .Site.Languages}}
@@ -66,4 +66,4 @@
     {{ end }}
 	</div>
 </nav>
-{{"<!-- End Fixed Navigation -->" | safeHTML}}
+{{"<!-- Navigation Fixe -->" | safeHTML}}
