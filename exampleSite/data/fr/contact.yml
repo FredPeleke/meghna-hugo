@@ -1,7 +1,7 @@
 ---
 contact:
   enable: true
-  title: Contact
+  title: Prenons contact
   subtitle: Une démarche éco-responsable vous intéresse ?
   content: Que ce soit la conception d'un nouveau site, ou le diagnostic de performances d'un site existant, prenons rendez-vous et discutons de votre projet.
   form_Action: "#"
