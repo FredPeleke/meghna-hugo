@@ -3,7 +3,18 @@ pricing:
   enable: true
   title: Nos formules
   pricing_Table:
-  - title: Startup
+  - title: Création
+    price: ""
+    unit: month
+    link: "#contact"
+    service:
+    - Aide au projet
+    - Conception
+    - Optimisation
+    - Analyse de trafic
+    - Support technique
+    - Tarifs adaptés
+  - title: Existant
     price: ""
     unit: month
     link: "#contact"
@@ -13,18 +24,7 @@ pricing:
     - Script Installer
     - 1 GB Storage
     - 10 GB Bandwidth
-    - 24/7 Tech Support
-  - title: Professionnel
-    price: ""
-    unit: month
-    link: "#contact"
-    service:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Maintenance
   - title: Diagnostic
     price: ""
     unit: month
@@ -41,9 +41,8 @@ pricing:
     unit: month
     link: "#contact"
     service:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Définition des KPI
+    - Optimisation SEO
+    - Analyse de trafic
+    - Web rédaction
+
