@@ -1,12 +1,12 @@
 ---
 pricing:
-  enable: false
-  title: Our Plans
+  enable: true
+  title: Nos formules
   pricing_Table:
-  - title: Free
-    price: "$99"
+  - title: Startup
+    price: ""
     unit: month
-    link: 
+    link: "#contact"
     service:
     - 1GB Disk Space
     - 10 Email Account
@@ -14,10 +14,10 @@ pricing:
     - 1 GB Storage
     - 10 GB Bandwidth
     - 24/7 Tech Support
-  - title: Silver
-    price: "$149"
+  - title: Professionnel
+    price: ""
     unit: month
-    link: 
+    link: "#contact"
     service:
     - 1GB Disk Space
     - 10 Email Account
@@ -25,10 +25,10 @@ pricing:
     - 1 GB Storage
     - 10 GB Bandwidth
     - 24/7 Tech Support
-  - title: Gold
-    price: "$199"
+  - title: Diagnostic
+    price: ""
     unit: month
-    link: 
+    link: "#contact"
     service:
     - 1GB Disk Space
     - 10 Email Account
@@ -36,10 +36,10 @@ pricing:
     - 1 GB Storage
     - 10 GB Bandwidth
     - 24/7 Tech Support
-  - title: Platinum
-    price: "$299"
+  - title: Consultant
+    price: ""
     unit: month
-    link: 
+    link: "#contact"
     service:
     - 1GB Disk Space
     - 10 Email Account
