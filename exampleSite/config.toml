@@ -31,7 +31,7 @@ name = "Contact"
 weight = 7
 [params]
 author = "WebPlusUn"
-description = "WebPlusUn propose un service majeur en éco-conception de site, audit de performances et optimisation SXO sur la France entière."
+description = "WebPlusUn propose un service majeur en éco-conception de site, diagnostics de performances et optimisations SXO sur la France entière."
 googleAnalitycsID = "Your ID"
 logo = "images/webplusun-logo.png"
 postShare = true
