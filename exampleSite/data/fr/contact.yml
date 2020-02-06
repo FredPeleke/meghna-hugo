@@ -2,10 +2,8 @@
 contact:
   enable: true
   title: Contact
-  subtitle: Un site éco-responsable vous intéresse ?
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle: Une démarche éco-responsable vous intéresse ?
+  content: Que ce soit la conception d'un nouveau site, ou le diagnostic de performances d'un site existant, prenons rendez-vous et ddiscutons de votre projet.
   form_Action: "#"
   map:
     enable: false
@@ -20,4 +18,4 @@ contact:
   - icon: ti-time
     info: Lundi-Vendredi 9:00-18:00
   - icon: ti-email
-    info: 'eMail: fred.maget@webplusun.fr'
+    info: 'Mel: fred.maget@webplusun.fr'
