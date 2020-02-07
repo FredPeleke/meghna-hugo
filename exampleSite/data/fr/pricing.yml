@@ -4,7 +4,7 @@ pricing:
   title: Nos formules
   pricing_Table:
   - title: Création
-    price: ""
+    price: ''
     unit: month
     link: "#contact"
     service:
@@ -15,7 +15,7 @@ pricing:
     - Support technique
     - Tarifs 'créateurs'
   - title: Existant
-    price: ""
+    price: ''
     unit: month
     link: "#contact"
     service:
@@ -26,7 +26,7 @@ pricing:
     - Analyse de trafic
     - Support technique
   - title: Diagnostic
-    price: ""
+    price: ''
     unit: month
     link: "#contact"
     service:
@@ -37,7 +37,7 @@ pricing:
     - Longue traine
     - Environnement
   - title: Consultant
-    price: ""
+    price: ''
     unit: month
     link: "#contact"
     service:
@@ -47,4 +47,7 @@ pricing:
     - Analyse de trafic
     - Web rédaction
     - 
-
+menu:
+  main:
+    name: Nos formules
+    weight: 2
