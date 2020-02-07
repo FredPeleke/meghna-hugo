@@ -13,38 +13,38 @@ pricing:
     - 'Éco' ou Wordpress
     - Analyse de trafic
     - Support technique
-    - Tarifs adaptés
+    - Tarifs 'créateurs'
   - title: Existant
     price: ""
     unit: month
     link: "#contact"
     service:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - Maintenance
+    - Diagnostic
+    - Cohérence des KPI
+    - Refonte
+    - 
+    - Analyse de trafic
+    - Support technique
   - title: Diagnostic
     price: ""
     unit: month
     link: "#contact"
     service:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Accessibilité
+    - KISS
+    - UX ergonomie
+    - SEO On-page
+    - Longue traine
+    - Environnement
   - title: Consultant
     price: ""
     unit: month
     link: "#contact"
     service:
-    - Définition des KPI
+    - Définir ses KPI
     - Optimisation SXO
+    - Longue traine
     - Analyse de trafic
     - Web rédaction
-    - 
     - 
 
