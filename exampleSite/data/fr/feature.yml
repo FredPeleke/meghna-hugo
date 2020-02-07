@@ -1,7 +1,7 @@
 ---
 feature:
   enable: true
-  image: images/about/webplusun-agence-visuel.jpg
+  image: images/webplusun-agence-visuel.jpg
   title: WebPlusUn, agence web éco-responsable
   content: Basé entre Pays basque et Landes, WebPlusUn propose un service majeur en
     éco-conception de site, audit de performances et SXO sur la France entière. En
