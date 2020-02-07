@@ -1,17 +1,20 @@
 ---
-title: "Are You Doing the Right Way"
-date: 2018-09-12T14:51:12+06:00
+title: Marketing viral, une solution Internet ?
+date: 2018-09-12T08:51:12.000+00:00
 author: John Doe
 image: images/blog/blog-post-3.jpg
-description : "This is meta description"
+description: Le marketing viral ne date pas d'hier. Souvenez-vous de Tupperware qui,
+  dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices»
+  pour se faire connaître et vendre leurs produits
+draft: true
+
 ---
+La théorie de l’évolution apportée par Charles Darwin évoque une progression grâce au processus de sélection naturelle. Au jour le jour et ce jusqu’à aujourd’hui, les espèces ont muté de façon à pouvoir s’adapter aux multiples et divers changements occasionnés par notre planète. Mais seules les espèces les plus alertes – et non pas les plus fortes - ont survécu à cette évolution. Le marketing et la communication d’entreprise nécessitent une remise en question régulière afin de trouver les points d’appuis les plus propices et pertinents dans une société en constant mouvement. En marge d’aider le quotidien de tout un chacun, la révolution industrielle a engendré capitalisme et consumérisme. En marge de mettre à disposition un nouvel outil d’échanges et de partages, Internet a ouvert la voie vers la renaissance du marketing viral.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+## Une propagation rapide
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Le **marketing viral** ne date pas d'hier. Souvenez-vous de Tupperware qui, dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices» pour se faire connaître et vendre leurs produits auprès d'un maximum de ménages grâce à un système pyramidal.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Mais au fil des ans, la facilité de mouvement croissant et la prolifération des magasins de masse a provoqué un lent déclin de ce système. Jusqu'à l'arrivée d'Internet qui a revigoré le marketing viral en devenant l'outil indispensable à une prospection de plus en plus précise et ad hoc.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Le Web est un incommensurable amplificateur qui donne la possibilité à des marques inconnues d'émerger rapidement et pour un coût réduit. Car le nerf de la guerre pour une petite marque naissante à budget limité ou une grosse société établie est sans ambiguïté le **Retour Sur Investissement**, qui plus est en cette période difficile.
