@@ -1,6 +1,6 @@
 ---
 title: Marketing viral, une solution Internet ?
-date: 2018-09-12T08:51:12.000+00:00
+date: 2012-03-01T10:51:12+01:00
 author: Fred Maget
 image: "/images/webplusun-blog.jpg"
 description: Le marketing viral ne date pas d'hier. Souvenez-vous de Tupperware qui,
