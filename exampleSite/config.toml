@@ -26,8 +26,12 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
+URL = "pricing"
+name = "Nos formules"
+weight = 2
+[[menu.main]]
 URL = "about"
-name = "Agence responsable"
+name = "Agence éco-responsable"
 weight = 1
 [params]
 author = "WebPlusUn"
