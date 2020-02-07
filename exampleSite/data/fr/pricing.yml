@@ -50,4 +50,4 @@ pricing:
 menu:
   main:
     name: Nos formules
-    weight: 2
+    weight: "2"
