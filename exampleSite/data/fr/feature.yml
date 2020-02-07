@@ -1,7 +1,7 @@
 ---
 feature:
   enable: true
-  image: images/webplusun-agence-visuel.jpg
+  image: images/webplusun-agence-visuels.jpg
   title: WebPlusUn, agence web éco-responsable
   content: Basé entre Pays basque et Landes, WebPlusUn propose un service majeur en
     éco-conception de site, audit de performances et SXO sur la France entière. En
@@ -17,7 +17,7 @@ feature:
       les mêmes biens et services, la différence se fera en valorisant une certaine
       éthique.
   - icon: ti-panel
-    title: Audit de performance
+    title: Diagnostic de performances
     content: Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il
       lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre
       les comportements et améliorer les visites, et auxquelles une analyse web et
