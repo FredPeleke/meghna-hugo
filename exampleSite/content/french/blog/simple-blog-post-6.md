@@ -1,6 +1,6 @@
 ---
 title: Comment optimiser sa rédaction ?
-date: 2012-04-02T08:52:36+02:00
+date: 2012-04-02T06:52:36.000+00:00
 image: images/blog/blog-post-1.jpg
 author: Fred Maget
 description: Une bonne rédaction SEO consiste à produire de l’intérêt, autant pour
@@ -19,4 +19,4 @@ Parce que le contenu textuel est ROI -comprenez qu’il est un « retour sur inv
 
 En fait, un bon rédacteur SEO sera capable d’adapter un texte selon ces besoins et exigences afin de captiver le public ciblé et l’inciter à produire une action sur le site, tel un achat ou une inscription, mais aussi une action d’accroche comme créer un lien à partir d’un blog, mettre en signet, voter et retweeter vers les plates-formes de médias sociaux comme Facebook, Tweeter, Delicious, etc. Cet accroche s’appelle le _Linkbaiting_.
 
-Pour résumer, il faut voir la [communication de son site de façon horizontale]() où le meilleur relai s’effectue par vos visiteurs eux-mêmes. Et si votre contenu n’est pas assez intéressant pour produire de bons liens naturels, qu’il soit optimisé ou non n’a alors aucune importance.
+Pour résumer, il faut voir la [communication de son site de façon horizontale]( "C'est quoi le Marketing communautaire ?") où le meilleur relai s’effectue par vos visiteurs eux-mêmes. Et si votre contenu n’est pas assez intéressant pour produire de bons liens naturels, qu’il soit optimisé ou non n’a alors aucune importance.
