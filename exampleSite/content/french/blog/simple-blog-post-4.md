@@ -1,17 +1,14 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
+title: C'est quoi le Marketing communautaire ?
+date: 2018-09-12T06:52:36.000+00:00
 image: images/blog/blog-post-1.jpg
-author: John Doe
-description : "This is meta description"
+author: Fred Maget
+description: This is meta description
+draft: true
+
 ---
+Grâce au Web, nous naviguons dorénavant dans un contexte de communication en réseau et non plus hiérarchique. Notamment au travers de plateformes vouées à l’interactivité (le fameux Web 2.0), telles Facebook, Twitter ou les nombreux forums et blogs qui jalonnent la toile. Tous ces espaces communautaires donnent autant de place aux commentaires sur l'info qu'à l'info elle-même, et font passer la communication d’une logique de cible à une logique de tribu.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+## Une communication en réseau
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+« _Conversations, mises en relation, confiance et entraide sont les valeurs fondatrices de ces plateformes_, convient Tara Hunt, auteur de The Whuffie Factor, dans une interview sur wordpress.com, _et les recommandations entre amis et gens se ressemblant par leurs profils prend de l’ampleur. \[…\] L’aspect marketing viendra naturellement s’intercaler dans ce processus car, dans les communautés, les membres aiment à débattre de leur vie quotidienne, et ils recherchent également des conseils d’achat de la part de leur cercle rapproché d’amis en lesquels ils ont confiance_. » Il est donc prépondérant d’effectuer un travail de veille au quotidien, et de répertorier les leaders d’opinions.

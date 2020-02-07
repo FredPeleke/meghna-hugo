@@ -1,17 +1,38 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
+title: Qu'est ce que l'optimisation seo ?
+date: 2012-03-04T08:52:36+01:00
 image: images/blog/blog-post-1.jpg
-author: John Doe
-description : "This is meta description"
+author: Fred Maget
+description: This is meta description
+draft: true
+
 ---
+Le SEO -ou Search Engine Optimization- rassemble les multiples opérations visant à améliorer et pérenniser la visibilité d'un site sur Internet.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+**L'optimisation SEO en plusieurs étapes**
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+On peut -grossièrement- résumer l'évaluation de votre site via les 3 C : 
 
-> Design is not just what it looks like and feels like. Design is how it works.
+* Code (structure et navigation)
+* Contenu (textes, logos, photos, vidéos)
+* Considération (affiliation et réputation)
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+**Code**
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Il existe différentes normes caractéristiques élaborées par les instances de l'Internet qui régulent les modalités d'**indexations de pages** par les moteurs de recherche, et par conséquent votre positionnement «logique ou mérité» dans leurs résultats.
+
+Nous réalisons l'analyse et l'intervention sur les facteurs pénalisants qui sanctionnent le bon référencement de votre site.
+
+**Contenu**
+
+Nous vous aidons à **déterminer des mots clés** en tenant compte du nombre de recherches et de la concurrence les concernant.
+
+La connaissance (évolutive) des algorithmes de classement des moteurs de recherche permet d'optimiser votre site sur de nombreuses requêtes.
+
+Le travail sémantique représente un critère prépondérant pour une bonne indexation.
+
+**Considération**
+
+Une parfaite optimisation prend en compte la **réputation de votre site**, tant auprès des sites en affiliation que des réseaux sociaux.
+
+Nous passons en revue **la quantité** et surtout **la qualité des liens** pointant vers votre site, puis nous vous aidons à les bonifier.
