@@ -1315,6 +1315,10 @@ a:hover {
   margin: 0 0 40px;
 }
 
+.blog-list h1 {
+  font-size: 25px;
+}
+
 .post-meta {
   font-size: 13px;
   margin: 20px 0 0;
