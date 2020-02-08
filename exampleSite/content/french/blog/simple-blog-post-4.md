@@ -1,9 +1,11 @@
 ---
 title: C'est quoi le Marketing communautaire ?
-date: 2018-09-12T06:52:36.000+00:00
-image: images/blog/blog-post-1.jpg
+date: 
+image: "/images/webplusun-blog.jpg"
 author: Fred Maget
-description: This is meta description
+description: Les espaces communautaires donnent autant de place aux commentaires sur
+  l'info qu'à l'info elle-même, et font passer la communication d’une logique de cible
+  à une logique de tribu.
 draft: true
 
 ---

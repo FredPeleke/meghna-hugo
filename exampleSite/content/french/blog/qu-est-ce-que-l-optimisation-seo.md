@@ -2,7 +2,6 @@
 author = "Fred Maget"
 date = ""
 description = ""
-draft = true
 image = "/images/webplusun-blog.jpg"
 title = "Qu'est-ce que l'optimisation SEO ?"
 
@@ -21,11 +20,9 @@ On peut -grossièrement- résumer l'évaluation de votre site via les 3 C :
 
 Il existe différentes normes caractéristiques élaborées par les instances de l'Internet qui régulent les modalités d'**indexations de pages** par les moteurs de recherche, et par conséquent votre positionnement «logique ou mérité» dans leurs résultats.
 
-Nous réalisons l'analyse et l'intervention sur les facteurs pénalisants qui sanctionnent le bon référencement de votre site.
-
 **Contenu**
 
-Nous vous aidons à **déterminer des mots clés** en tenant compte du nombre de recherches et de la concurrence les concernant.
+Il s'agit de **déterminer des mots clés** en tenant compte du nombre de recherches et de la concurrence les concernant.
 
 La connaissance (évolutive) des algorithmes de classement des moteurs de recherche permet d'optimiser votre site sur de nombreuses requêtes.
 
@@ -33,6 +30,10 @@ Le travail sémantique représente un critère prépondérant pour une bonne ind
 
 **Considération**
 
-Une parfaite optimisation prend en compte la **réputation de votre site**, tant auprès des sites en affiliation que des réseaux sociaux.
+Une parfaite optimisation prend en compte la **réputation de votre site**, tant auprès des sites en affiliation (qui ont un lien vers une de vos pages : accueil, article, etc.) que des réseaux sociaux.
 
-Nous passons en revue **la quantité** et surtout **la qualité des liens** pointant vers votre site, puis nous vous aidons à les bonifier.
+Vous devez alors passer en revue **la quantité** et surtout **la qualité des liens** pointant vers votre site, afin de les bonifier.
+
+\--
+
+Nous réalisons l'analyse et l'intervention sur les facteurs pénalisants qui sanctionnent le bon référencement de votre site.
