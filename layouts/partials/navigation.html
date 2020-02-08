@@ -3,7 +3,8 @@
 	<div class="container">
 
 		{{"<!-- logo -->" | safeHTML}}
-		<a class="navbar-brand logo" href="{{ .Site.BaseURL | relLangURL }}">
+		<a class="navbar-brand logo" href="{{ .Site.BaseURL }}">
+		<!--<a class="navbar-brand logo" href="{{ .Site.BaseURL | relLangURL }}">-->
 			{{ if .Site.Params.logo }}
 			<img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
 			{{ else }}
