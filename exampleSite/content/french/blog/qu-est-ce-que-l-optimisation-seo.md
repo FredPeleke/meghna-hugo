@@ -1,17 +1,17 @@
----
-title: Qu'est ce que l'optimisation seo ?
-date: 2012-03-04T08:52:36+01:00
-image: images/blog/blog-post-1.jpg
-author: Fred Maget
-description: This is meta description
-draft: true
++++
+author = "Fred Maget"
+date = ""
+description = ""
+draft = true
+image = "/images/webplusun-blog.jpg"
+title = "Qu'est-ce que l'optimisation SEO ?"
 
----
++++
 Le SEO -ou Search Engine Optimization- rassemble les multiples opérations visant à améliorer et pérenniser la visibilité d'un site sur Internet.
 
 **L'optimisation SEO en plusieurs étapes**
 
-On peut -grossièrement- résumer l'évaluation de votre site via les 3 C : 
+On peut -grossièrement- résumer l'évaluation de votre site via les 3 C :
 
 * Code (structure et navigation)
 * Contenu (textes, logos, photos, vidéos)

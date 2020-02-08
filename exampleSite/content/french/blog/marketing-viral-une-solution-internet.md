@@ -1,13 +1,12 @@
----
-title: Marketing viral, une solution Internet ?
-date: 2012-03-01T10:51:12+01:00
-author: Fred Maget
-image: "/images/webplusun-blog.jpg"
-description: Le marketing viral ne date pas d'hier. Souvenez-vous de Tupperware qui,
-  dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices»
-  pour se faire connaître et vendre leurs produits
++++
+author = "Fred Maget"
+date = ""
+description = "Le marketing viral ne date pas d'hier. Souvenez-vous de Tupperware qui, dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices» pour se faire connaître et vendre leurs produits."
+draft = true
+image = "/images/webplusun-blog.jpg"
+title = "Marketing viral, une solution Internet ?"
 
----
++++
 La théorie de l’évolution apportée par Charles Darwin évoque une progression grâce au processus de sélection naturelle. Au jour le jour et ce jusqu’à aujourd’hui, les espèces ont muté de façon à pouvoir s’adapter aux multiples et divers changements occasionnés par notre planète. Mais seules les espèces les plus alertes – et non pas les plus fortes - ont survécu à cette évolution. Le marketing et la communication d’entreprise nécessitent une remise en question régulière afin de trouver les points d’appuis les plus propices et pertinents dans une société en constant mouvement. En marge d’aider le quotidien de tout un chacun, la révolution industrielle a engendré capitalisme et consumérisme. En marge de mettre à disposition un nouvel outil d’échanges et de partages, Internet a ouvert la voie vers la renaissance du marketing viral.
 
 ## Une propagation rapide
