@@ -1,9 +1,12 @@
 ---
 title: C'est quoi le Marketing communautaire ?
 date: 
-image: images/blog/blog-post-1.jpg
+image: "/images/webplusun-blog.jpg"
 author: Fred Maget
-description: This is meta description
+description: Les espaces communautaires donnent autant de place aux commentaires sur
+  l'info qu'à l'info elle-même, et font passer la communication d’une logique de cible
+  à une logique de tribu.
+draft: true
 
 ---
 Grâce au Web, nous naviguons dorénavant dans un contexte de communication en réseau et non plus hiérarchique. Notamment au travers de plateformes vouées à l’interactivité (le fameux Web 2.0), telles Facebook, Twitter ou les nombreux forums et blogs qui jalonnent la toile. Tous ces espaces communautaires donnent autant de place aux commentaires sur l'info qu'à l'info elle-même, et font passer la communication d’une logique de cible à une logique de tribu.
