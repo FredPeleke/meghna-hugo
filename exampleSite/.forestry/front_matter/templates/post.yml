@@ -21,4 +21,5 @@ fields:
   label: description
   description: this is meta description
 pages:
+- exampleSite/content/french/blog/comment-o.md
 - exampleSite/content/french/blog/marketing-viral-une-solution-internet.md
