@@ -4,7 +4,7 @@ date = ""
 description = "Une bonne rédaction SEO consiste à produire de l’intérêt, autant pour l'internaute en quête d'information que pour le moteur de recherche qui doit indexer la page."
 draft = true
 image = "/images/webplusun-blog.jpg"
-title = "Comment o"
+title = "Comment ooptimiser sa rédaction ?"
 
 +++
 Il y a quelques années, il suffisait aux rédacteurs SEO de savoir placer les bons mots clés aux bons endroits en jouant sur les densités pour obtenir les meilleurs classements. C’est toujours vrai aujourd’hui. Les moteurs de recherche fondent leurs résultats sur la relation entre les **requêtes populaires et la pertinence du contenu textuel**. Il ne fait aucun doute que l’emplacement et la fréquence des mots clés sont toujours décisifs. Mais ce n’est pas tout.
