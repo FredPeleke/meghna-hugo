@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Fred Maget"
 date = ""
 description = "Une bonne rédaction SEO consiste à produire de l’intérêt, autant pour l'internaute en quête d'information que pour le moteur de recherche qui doit indexer la page."
 draft = true
