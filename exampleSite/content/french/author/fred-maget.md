@@ -1,10 +1,9 @@
 +++
-draft = true
 email = "fred.maget@webplusun.fr"
 title = "Fred Maget"
 [[social]]
-icon = ""
-link = ""
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/in/frédérick-maget"
 
 +++
 D’abord journaliste, je suis devenu rédacteur-web au début des années 2000. Je me suis intéressé au SEO quelques années plus tard en travaillant en agences. Diplômé d'un Master "Chef de projet webmarketing/Création de site" à la CCI de Bayonne, je reste en perpétuelle mise à jour de mes connaissances et prêt à acquérir de nouvelles compétences plus techniques.
