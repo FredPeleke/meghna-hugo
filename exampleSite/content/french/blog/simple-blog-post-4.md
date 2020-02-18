@@ -1,6 +1,6 @@
 ---
 title: C'est quoi le Marketing communautaire ?
-date: 2012-04-03T09:00:00+02:00
+date: 2012-04-03T08:54:00+02:00
 image: "/images/webplusun-blog.jpg"
 author: Fred Maget
 description: Les espaces communautaires donnent autant de place aux commentaires sur
