@@ -1,4 +1,4 @@
-baseURL = "https://dev2-peleke.netlify.com/"
+baseURL = "https://webplusun.fr/"
 disableLanguages = ["En"]
 disqusShortname = ""
 paginate = "6"
