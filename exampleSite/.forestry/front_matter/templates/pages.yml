@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Titre
+pages:
+- exampleSite/content/french/pages/Mentions-legales.md
