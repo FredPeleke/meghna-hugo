@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Description
+pages:
+- exampleSite/content/french/pages/mentions-legales.md
