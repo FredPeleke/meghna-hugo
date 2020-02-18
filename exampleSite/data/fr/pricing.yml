@@ -30,11 +30,11 @@ pricing:
     unit: month
     link: "#contact"
     service:
-    - Accessibilité
+    - Indexation
     - KISS
     - UX ergonomie
     - SEO On-page
-    - Longue traine
+    - TF-IDF
     - Environnement
   - title: Consultant
     price: ''
