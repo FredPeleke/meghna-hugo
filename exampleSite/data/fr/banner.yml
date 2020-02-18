@@ -4,7 +4,7 @@ banner:
   bg_Image: images/webplusun-hero.jpg
   icon: ''
   title: Éco-concept et Analyse web
-  content: Réduire l'impact environnemental de votre site web, c'est possible !.
+  content: Réduire l'impact environnemental de votre site web, c'est possible !
   button:
     enable: true
     label: Surfez sur un Web Plus Sain
