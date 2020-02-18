@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Mentions légales"
 titre = "Mentions légales"
 
 +++
