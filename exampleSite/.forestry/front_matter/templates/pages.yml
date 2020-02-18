@@ -1,0 +1,11 @@
+---
+label: Pages
+hide_body: false
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+pages:
+- exampleSite/content/french/pages/Mentions-legales.md
