@@ -1,6 +1,6 @@
 +++
 author = "Fred Maget"
-date = ""
+date = 2012-04-14T22:00:00Z
 description = "Le marketing viral ne date pas d'hier. Souvenez-vous de Tupperware qui, dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices» pour se faire connaître et vendre leurs produits."
 image = "/images/webplusun-blog.jpg"
 title = "Marketing viral, une solution Internet ?"
