@@ -1,5 +1,7 @@
 +++
 description = "Mentions légales"
+image = "/images/webplusun-blog.jpg"
+title = "Mentions légales"
 titre = "Mentions légales"
 
 +++

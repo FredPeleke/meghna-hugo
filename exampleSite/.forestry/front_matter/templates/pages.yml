@@ -12,5 +12,10 @@ fields:
   config:
     required: true
   label: description
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
 pages:
 - exampleSite/content/french/pages/mentions-legales.md
