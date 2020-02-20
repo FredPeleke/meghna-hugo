@@ -8,7 +8,7 @@
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-K82C');</script>
-    <!-- End Google Tag Manager -->
+    <!-- /Google Tag Manager -->
 
     {{ "<!-- meta mobile responsive -->" | safeHTML }}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
@@ -22,9 +22,10 @@
     <link rel="stylesheet" href="{{ .URL | absURL }} ">
     {{ end }}
 
-    {{"<!-- Main Stylesheet -->"|safeHTML}}
+    {{"<!-- Stylesheet -->"|safeHTML}}
     {{ $styles := resources.Get "css/style.css" | minify}}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+    
 
     {{ "<!--Favicon-->" | safeHTML }}
     <link rel="shortcut icon" href="{{ `images/web-plus-un-fav.png` | absURL }} " type="image/x-icon">
