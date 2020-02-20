@@ -1,7 +1,7 @@
 +++
 author = "Fred Maget"
 date = ""
-description = ""
+description = "Le SEO -ou Search Engine Optimization- rassemble les multiples opérations visant à améliorer et pérenniser la visibilité d'un site sur Internet."
 image = "/images/webplusun-blog.jpg"
 title = "Qu'est-ce que l'optimisation SEO ?"
 
