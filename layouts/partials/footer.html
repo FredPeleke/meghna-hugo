@@ -25,7 +25,7 @@
 		</div>
 	</div>
 </footer>
-{{"<!-- /footer -->" | safeHTML}}
+{{"<!-- /footer -->" | safeHTML}} 
 {{"<!-- Scripts importants -->" | safeHTML}}
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
@@ -34,4 +34,3 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
-{{ end }}
