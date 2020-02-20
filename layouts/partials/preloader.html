@@ -1,9 +1,9 @@
 {{ if .Site.Params.preloader.enable }}
-{{ "<!-- preloader start -->" | safeHTML }}
+{{ "<!-- preloader -->" | safeHTML }}
 <div class="preloader">
   {{ if .Site.Params.preloader.preloader }}
-  <img src="{{ .Site.Params.preloader.preloader | absURL }}" alt="preloader">
+  <img src="{{ .Site.Params.preloader.preloader | absURL }}" alt="WebPlusUn preloader">
   {{ end }}
 </div>
-{{ "<!-- preloader end -->" | safeHTML }}
+{{ "<!-- /preloader -->" | safeHTML }}
 {{ end }}
