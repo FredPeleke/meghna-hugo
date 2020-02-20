@@ -7,5 +7,10 @@ fields:
   config:
     required: false
   label: Titre
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
 pages:
-- exampleSite/content/french/pages/Mentions-legales.md
+- exampleSite/content/french/pages/mentions-legales.md
