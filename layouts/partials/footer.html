@@ -1,10 +1,10 @@
-{{"<!-- end Contact Area -->" | safeHTML}}
+{{"<!-- /fin Contact -->" | safeHTML}}
 <footer id="footer" class="section-bg">
 	<div class="container">
 		<div class="row wow fadeInUp" data-wow-duration="500ms">
 			<div class="col-xl-12">
 
-				{{"<!-- Footer Social Links -->" | safeHTML}}
+				{{"<!-- Footer réseaux sociaux -->" | safeHTML}}
 				<div class="social-icon">
 					<ul class="list-inline">
 						{{ range .Site.Params.social_Icon }}
@@ -16,7 +16,7 @@
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
 					<a href="{{ .Site.BaseURL | absURL }}">
-						<img src="{{ .Site.Params.logo | absURL }}" alt="Meghna" />
+						<img src="{{ .Site.Params.logo | absURL }}" alt="WebPlusUn" />
 					</a>
 					<br>
 					<p>{{ i18n "copyright" | markdownify }}</p>
@@ -40,21 +40,4 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
-{{ "<!-- google analitycs -->" | safeHTML }}
-{{ if .Site.Params.googleAnalitycsID }}
-<script>
-  (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-  ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
-  ga('send', 'pageview');
-</script>
 {{ end }}
