@@ -21,7 +21,7 @@
   }
 
   var document = window.document;
-  // IE8 does not support textContent, so we should fallback to innerText.
+  // IE8 ne supporte pas textContent, donc version innerText.
   var supportsTextContent = 'textContent' in document.body;
 
   var cookieChoices = (function() {
@@ -29,9 +29,10 @@
     var cookieName = 'displayCookieConsent';
     var cookieConsentId = 'cookieChoiceInfo';
     var dismissLinkId = 'cookieChoiceDismiss';
-
+    
+    // Paramétrage de l'apparence
     function _createHeaderElement(cookieText, dismissText, linkText, linkHref) {
-      var butterBarStyles = 'position:fixed;width:100%;background-color:#000000;color:#F5F5F5;' +
+      var butterBarStyles = 'position:fixed;width:100%;background-color:#000000;color:#fff;' +
           'margin:0; left:0; bottom:0; padding:4px;z-index:1000;text-align:center;';
 
       var cookieConsentElement = document.createElement('div');
@@ -152,14 +153,14 @@
     }
 
     function _saveUserPreference() {
-      // Set the cookie expiry to one year after today.
+      // Le cookie expire dans 1 an à partir du clic.
       var expiryDate = new Date();
       expiryDate.setFullYear(expiryDate.getFullYear() + 1);
       document.cookie = cookieName + '=y; path=/; expires=' + expiryDate.toGMTString();
     }
 
     function _shouldDisplayConsent() {
-      // Display the header only if the cookie has not been set.
+      // Afficher le header seulement si le cookie n'est pas paramétrer.
       return !document.cookie.match(new RegExp(cookieName + '=([^;]+)'));
     }
 
