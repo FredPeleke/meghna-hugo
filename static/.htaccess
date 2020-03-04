@@ -14,3 +14,6 @@ AddOutputFilterByType DEFLATE image/gif
 AddOutputFilterByType DEFLATE image/jpeg
 AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security: "max-age=63072000; includeSubDomains; preload"
+</IfModule>
