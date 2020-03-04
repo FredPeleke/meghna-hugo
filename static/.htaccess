@@ -17,3 +17,18 @@ AddOutputFilterByType DEFLATE image/svg+xml
 <IfModule mod_headers.c>
 Header set Strict-Transport-Security: "max-age=63072000; includeSubDomains; preload"
 </IfModule>
+<IfModule mod_headers.c>
+<FilesMatch"\.ico$">
+# mise en cache du fichier ico durant 1 an (31536000 secondes)
+Header set Cache-control "max-age=31536000"
+</FilesMatch>
+</IfModule>
+<IfModule mod_headers.c>
+<FilesMatch"\\.(ico|jpe?g|png|gif|swf|css|gz)$">
+Header set Cache-control "max-age=2592000,public"
+</FilesMatch>
+<FilesMatch"\\.(html|htm)$">
+# mise en cache du fichier ico durant 1 an (31536000 secondes)
+Header set Cache-control "max-age=7200,public"
+</FilesMatch>
+</IfModule>
