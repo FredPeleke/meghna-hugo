@@ -1,7 +1,6 @@
 <head>
     <meta charset="utf-8">
     <title>{{ .Title }}</title>
-
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -9,12 +8,9 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-K82C');</script>
     <!-- /Google Tag Manager -->
-
     {{ "<!-- meta mobile responsive -->" | safeHTML }}
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-    {{ with .Site.Params.author }}
-    <meta name="author" content="{{ . }}">{{ end }}
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
 
     {{ "<!-- plugins -->" | safeHTML }}
@@ -27,8 +23,7 @@
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
     {{ "<!--Favicon-->" | safeHTML }}
-    <link rel="shortcut icon" href="{{ `images/web-plus-un-fav.png` | absURL }} " type="image/x-icon">
-    <link rel="icon" href="{{ `images/web-plus-un-fav.png` | absURL }} " type="image/x-icon">
+    <link rel="shortcut icon" href="{{ `images/web-plus-un-fav.png` | absURL }} " type="image/x-icon"><link rel="icon" href="{{ `images/web-plus-un-fav.png` | absURL }} " type="image/x-icon">
 
     <meta property="og:locale" content="fr_FR" /><meta property="og:type" content="website" /><meta property="og:title" content="WebPlusUn agence éco-responsable | Éco-concept et Analyse web" /><meta property="og:description" content="WebPlusUn propose un service majeur en éco-conception de site, diagnostics de performances et optimisations SXO sur la France entière." /><meta property="og:site_name" content="webplusun.fr" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="WebPlusUn agence éco-responsable | Éco-concept et Analyse web" /><meta name="twitter:description" content="WebPlusUn propose un service majeur en éco-conception de site, diagnostics de performances et optimisations SXO sur la France entière." /><meta name="twitter:image" content="/images/webplusun-logo.png" />
 </head>
