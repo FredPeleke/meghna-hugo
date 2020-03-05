@@ -8,7 +8,10 @@ Conformément aux dispositions des articles 6-III et 19 de la Loi n° 2004-575 d
 
 Statut du propriétaire : particulier  
 Le Propriétaire est : _Frédérick Maget_  
-Adresse postale du propriétaire : Rue des Platanes 40220 Tarnos  
+Adresse postale du propriétaire : 3, Rue Hélène Boucher 40220 Tarnos
+Activité portée par la SCIC Interstices Sud Aquitaine
+3, Rue Hélène Boucher 40220 Tarnos.
+Tel : 05.59.74.84.10- mail : contact@interstices-sud-aquitaine.fr - site : www.interstices-sud-aquitaine.fr Siret 448 220 830 000 39 - TVA Intracommunautaire : FR02448220830. - NAF 8299Z  
    
 Le Créateur du site est : _Frédérick Maget_  
 Le responsable de la publication est une personne morale  
