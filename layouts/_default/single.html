@@ -20,6 +20,7 @@
         {{ if .Site.Params.postShare }}
         {{ partial "post-share.html" . }}
         {{ end }}
+        <a class="btn btn-main" href="{{ .Site.BaseURL }}">Retour à l'accueil</a>
         <!-- commentaires -->
         <div class="mt-5">
           {{ template "_internal/disqus.html" . }}
