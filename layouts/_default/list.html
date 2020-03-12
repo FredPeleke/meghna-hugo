@@ -7,14 +7,14 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        {{"<!-- section titre -->" | safeHTML}}
+        {{"<!-- titre -->" | safeHTML}}
         <div class="title text-center wow fadeInDown">
-          <h1 class="blog-list">{{ with i18n "blogTitle" }} {{ index (split . " ") 0 }} {{ end }}<span style="color:#a9c800;">
-              {{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h1>
+          <span class="blog-list">{{ with i18n "blogTitle" }} {{ index (split . " ") 0 }} {{ end }}<span style="color:#a9c800;">
+              {{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></span>
           <div class="border-meghna"></div>
         </div>
       </div>
-      {{"<!-- /section titre -->" | safeHTML}}
+      {{"<!-- /titre -->" | safeHTML}}
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
       {{ .Render "article" }}
